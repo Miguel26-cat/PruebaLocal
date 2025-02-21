@@ -1,8 +1,7 @@
-public static void main(String [] args)
+public class Hola
 {
-    public class tonto
+    public static void main(String [] args)
     {
-        System.out
+        System.out.println("Hola");
     }
-
 }
